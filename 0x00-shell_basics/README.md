@@ -1,1 +1,2 @@
-my readme
+current working directory
+zero
